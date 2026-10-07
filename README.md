@@ -1,6 +1,7 @@
-# Hi there, I'm Aba Ibrahim 👋
+# Hi there, I'm Aba Ibrahim.
 
-Passionate Software Engineering student with a strong eye for design. Focusing on building intuitive web applications, interactive interfaces, and clean digital experiences.
+Us every day a Software Engineer
+& Motion & Graphics Designer.
 
 ---
 
