@@ -3,15 +3,7 @@
 Us every day a Software Engineer
 & Motion & Graphics Designer.
 
----
-
-### 🚀 What I'm Up To
-- 🔭 Working on: Web development & interactive apps
-- 🌱 Currently learning: Modern frontend frameworks & backend architecture
-- 🎨 Design tools: Figma, Illustrator
-- 💬 Ask me about: Frontend development, UI design, and creative workflows
-
----
+-
 
 ### 🛠️ Tech Stack & Tools
 
@@ -26,7 +18,7 @@ Us every day a Software Engineer
 **Design & Creative**
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
----
+-
 
 ### 📊 GitHub Stats
 <p align="center">
@@ -34,8 +26,8 @@ Us every day a Software Engineer
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lybaimm&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
----
+-
 
 ### 📬 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](LINK_LINKEDIN_KAMU)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](LINK_INSTAGRAM_KAMU)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lybaimm/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abaibrahim/)
