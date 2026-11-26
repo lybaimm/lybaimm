@@ -2,33 +2,19 @@
   <img src="assets/banner.jpg" alt="Profile Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Aba Ibrahim</h1>
-
-<h3 align="center">Software Engineer & Motion & Graphics Designer</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=E6EDF3&center=true&vCenter=true&width=435&lines=Code.+Design.+Create.;Software+%26+Visual+Craftsman" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  Building reliable software systems and crafting clean visual & motion experiences.
+  <img src="assets/hero-header.svg" alt="Hi, I'm Aba Ibrahim — Software Engineer & Motion & Graphics Designer" width="100%" />
 </p>
 
 ---
 
 <h2 align="center">🚀 About Me</h2>
 
-<img align="right" width="230" src="assets/about.jpg" alt="Pixel Astronaut" />
-
-**Baim**, here — a **Software Engineer & Motion & Graphics Designer** based in **Purwokerto, Jawa Tengah**.
-
-I enjoy building practical web applications and software systems while combining clean code with thoughtful visual design.
-
-My stack spans **Python, C/C++, PHP, MySQL, HTML/CSS, JavaScript, and React**, alongside creative tools like **Figma** for UI and visual craftsmanship.
-
-My goal is simple: write clean code, craft meaningful visuals, and build software that lasts.
-
-<br clear="right" />
+<p align="center">
+  <img src="assets/about-card.svg" alt="About Me" width="64%" />
+  &nbsp;
+  <img src="assets/about.jpg" alt="Pixel Astronaut" width="27%" />
+</p>
 
 ---
 
