@@ -17,7 +17,13 @@
 <h4 align="center">Tools</h4>
 
 <p align="center">
-  VS Code · Antigravity · GitHub · Figma
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" height="34" />
+  &nbsp;
+  <img src="assets/antigravity-icon.svg" alt="Antigravity" height="34" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="34" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" height="34" />
 </p>
 
 <h4 align="center">Stats</h4>
