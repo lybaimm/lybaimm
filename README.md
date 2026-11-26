@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="assets/banner.jpg" alt="Profile Banner" width="100%" />
-</p>
-
-<p align="center">
   <img src="assets/hero-header.svg" alt="Hi, I'm Aba Ibrahim — Software Engineer & Motion & Graphics Designer" width="100%" />
 </p>
 
@@ -11,9 +7,7 @@
 <h2 align="center">🚀 About Me</h2>
 
 <p align="center">
-  <img src="assets/about-card.svg" alt="About Me" width="64%" />
-  &nbsp;
-  <img src="assets/about.jpg" alt="Pixel Astronaut" width="27%" />
+  <img src="assets/about-card.svg" alt="About Me" width="680" />
 </p>
 
 ---
