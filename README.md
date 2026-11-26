@@ -11,7 +11,13 @@
 <h4 align="center">Stack</h4>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,mysql,js,react,html,css,c,cpp,figma,git,github,vscode&perline=13" alt="Tech Stack" height="34" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,mysql,html,css,js,react&perline=8" alt="Tech Stack" height="34" />
+</p>
+
+<h4 align="center">Tools</h4>
+
+<p align="center">
+  VS Code · Antigravity · GitHub · Figma
 </p>
 
 <h4 align="center">Stats</h4>
